@@ -1,0 +1,94 @@
+Faults on APBSC1 as at:150811  1036.
+
+*** Disconnected from OJBSC15 ***
+
+*** Connected to APBSC1 ***
+<ALLIP:PRCA=43;
+ALARM LIST
+
+A1/APT "NMOJBSC15EVOG12" 825 150826   0606
+CELL LOGICAL CHANNEL AVAILABILITY SUPERVISION
+CELL       SCTYPE      CHTYPE       CHRATE    SPV
+OG4910A    UL          BCCH
+                      SDCCH
+                      TCH          FR        1
+                      TCH          FR        2
+                      TCH          FR        3
+                      TCH          HR        1
+                      TCH          HR        3
+                      CBCH
+
+
+
+A1/APT "NMOJBSC15EVOG12" 826 150826   0608
+CELL LOGICAL CHANNEL AVAILABILITY SUPERVISION
+CELL       SCTYPE      CHTYPE       CHRATE    SPV
+OG4910B    UL          BCCH
+                      SDCCH
+                      TCH          FR        1
+                      TCH          FR        2
+                      TCH          FR        3
+                      TCH          HR        1
+                      TCH          HR        3
+                      CBCH
+
+
+
+A1/APT "NMOJBSC15EVOG12" 836 150826   0612
+CELL LOGICAL CHANNEL AVAILABILITY SUPERVISION
+CELL       SCTYPE      CHTYPE       CHRATE    SPV
+OG4910C    UL          BCCH
+                      SDCCH
+                      TCH          FR        1
+                      TCH          FR        2
+                      TCH          FR        3
+                      TCH          HR        1
+                      TCH          HR        3
+                      CBCH
+
+
+
+A1/APT "NMOJBSC15EVOG12" 556 150522   1817
+CELL LOGICAL CHANNEL AVAILABILITY SUPERVISION
+CELL       SCTYPE      CHTYPE       CHRATE    SPV
+OG3037C    UL          TCH          FR        1
+                      TCH          FR        2
+                      TCH          FR        3
+                      TCH          HR        1
+                      TCH          HR        3
+
+
+
+A2/APT "NMOJBSC15EVOG12" 299 150625   0106
+CELL LOGICAL CHANNEL AVAILABILITY SUPERVISION
+CELL       SCTYPE      CHTYPE       CHRATE    SPV
+OG3008A                SDCCH
+
+
+
+A2/APT "NMOJBSC15EVOG12" 934 150731   0358
+CELL LOGICAL CHANNEL AVAILABILITY SUPERVISION
+CELL       SCTYPE      CHTYPE       CHRATE    SPV
+444C       UL          TCHBPC
+
+
+
+A2/APT "NMOJBSC15EVOG12" 940 150731   0359
+CELL LOGICAL CHANNEL AVAILABILITY SUPERVISION
+CELL       SCTYPE      CHTYPE       CHRATE    SPV
+766A       UL          TCH          FR        1
+                      TCH          FR        2
+                      TCH          FR        3
+                      TCH          HR        1
+                      TCH          HR        3
+
+
+END
+
+__________________________________________________________________________________________END OF OJBSC15.
+
+
+
+________________________________
+
+Disclaimer: The information transmitted via this email or any attachments thereto are intended for the named addressee(s) except where any addressee(s) was/were so named in error. The said information and/or attachments may contain confidential, privileged or copyright material and any amendment, dissemination, disclosure, transmission or distribution is hereby expressly strictly prohibited. If you are not the intended recipient or where same has been received in error, please notify the sender immediately and delete all copies of the email and attachments thereto. Please note that no opinion, commitment or representation, expressed or implied by the sender, necessarily constitutes the opinion or commitment or representation of MTN Nigeria Communications Limited (MTNN) and no such opinion, commitment or representation shall be binding on MTNN excepting where same has been so communicated and affirmed in writing by a duly authorized representative of MTNN. MTNN shall not be responsible for any loss, damage, claim or any inconvenience whatsoever that may be suffered as a result of a reliance on the contents of the email or attachments thereof.
